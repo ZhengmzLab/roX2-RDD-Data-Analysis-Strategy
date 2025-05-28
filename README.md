@@ -9,4 +9,4 @@ Tian, Simon Zhongyuan<sup>#</sup>\*; Yang, Yang#; Ning, Duo<sup>#</sup>; Fang, K
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/4894278a-5b2c-4132-8ad3-a2656a163e74" />
 
 
-go to [wiki](https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy.wiki).
+go to [wiki](https://github.com/ZhengmzLab/roX2-RDD-Data-Analysis-Strategy/wiki).
